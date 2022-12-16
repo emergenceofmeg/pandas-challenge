@@ -1,0 +1,8 @@
+#Analysis 
+
+Upon completing this challenge, these are the conclusions I found to be most valuable to the district. 
+
+1) Higher Per Student Budget does not guarantee top performance. In the Top Performing Schools data, the performance differrence appears as though it is credited to Charter schools, however, the Per Student Budget is overall lower for top performing schools. This concludion is apparently observed in the Score by Per Student Budget dataframe. 
+
+2) Secondly, in taking a closer look at all the grouped data frames, school size is the deciding factor of performance. In comparing the top and bottom performing schools, this trend starts to emerge. The size range of top performing school is 960-2300 students. Whereas, the size range for bottom performing schools is 2700-4800 students. The sizes of top performing schools and bottom performing schools are in drastically different ranges. This trend is solidified in the Score by Size dataframe. 
+	
